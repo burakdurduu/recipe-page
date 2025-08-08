@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "Outfit";
+  src: url("../assets/fonts/outfit/Outfit-VariableFont_wght.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Young Serif";
+  src: url("../assets/fonts/young-serif/YoungSerif-Regular.ttf");
+  font-display: swap;
+}
+
+:root {
+  /* Colors */
+  --rose-800: #7a284e;
+  --rose-50: #fff7fb;
+  --stone-900: #312e2c;
+  --stone-600: #5f564d;
+  --stone-150: #e3ddd7;
+  --stone-100: #f3e5d7;
+  --brown-800: #854632;
+  --white: #ffffff;
+
+  /* Spacing */
+  --spacing-1600: 8rem;
+  --spacing-600: 3rem;
+  --spacing-500: 2.5rem;
+  --spacing-400: 2rem;
+  --spacing-300: 1.5rem;
+  --spacing-200: 1rem;
+  --spacing-150: 0.75rem;
+  --spacing-100: 0.5rem;
+
+  /* Typography Presets */
+  --font-family-young-serif-regular: "Young Serif", system-ui, sans-serif;
+  --font-family-outfit: "Outfit", system-ui, sans-serif;
+  --text-preset-1-font-size: 2.5rem;
+  --text-preset-1-font-weight: 400;
+  --text-preset-1-line-height: 1;
+  --text-preset-1-letter-spacing: 0rem;
+  --text-preset-2-font-size: 1.75rem;
+  --text-preset-2-font-weight: 400;
+  --text-preset-2-line-height: 1;
+  --text-preset-2-letter-spacing: 0rem;
+  --text-preset-3-font-size: 1.25rem;
+  --text-preset-3-font-weight: 600;
+  --text-preset-3-line-height: 1;
+  --text-preset-3-letter-spacing: 0rem;
+  --text-preset-4-font-size: 1rem;
+  --text-preset-4-font-weight: 400;
+  --text-preset-4-line-height: 1.5;
+  --text-preset-4-letter-spacing: 0rem;
+  --text-preset-4-bold-font-size: 1rem;
+  --text-preset-4-bold-font-weight: 700;
+  --text-preset-4-bold-line-height: 1.5;
+  --text-preset-4-bold-letter-spacing: 0rem;
+}
