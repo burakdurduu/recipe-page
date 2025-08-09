@@ -1,11 +1,13 @@
 .text-preset-1 {
-  font-size: var(--text-preset-1-font-size);
+  font-family: var(--font-family-young-serif-regular);
+  font-size: var(--text-preset-1-mobile-font-size);
   font-weight: var(--text-preset-1-font-weight);
   line-height: var(--text-preset-1-line-height);
   letter-spacing: var(--text-preset-1-letter-spacing);
 }
 
 .text-preset-2 {
+  font-family: var(--font-family-young-serif-regular);
   font-size: var(--text-preset-2-font-size);
   font-weight: var(--text-preset-2-font-weight);
   line-height: var(--text-preset-2-line-height);
@@ -13,6 +15,7 @@
 }
 
 .text-preset-3 {
+  font-family: var(--font-family-outfit);
   font-size: var(--text-preset-3-font-size);
   font-weight: var(--text-preset-3-font-weight);
   line-height: var(--text-preset-3-line-height);
@@ -20,6 +23,7 @@
 }
 
 .text-preset-4 {
+  font-family: var(--font-family-outfit);
   font-size: var(--text-preset-4-font-size);
   font-weight: var(--text-preset-4-font-weight);
   line-height: var(--text-preset-4-line-height);
@@ -27,6 +31,7 @@
 }
 
 .text-preset-4-bold {
+  font-family: var(--font-family-outfit);
   font-size: var(--text-preset-4-bold-font-size);
   font-weight: var(--text-preset-4-bold-font-weight);
   line-height: var(--text-preset-4-bold-line-height);

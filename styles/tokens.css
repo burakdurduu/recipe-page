@@ -32,9 +32,11 @@
   --spacing-100: 0.5rem;
 
   /* Typography Presets */
+  --font-family-base: "Outfit", system-ui, sans-serif;
   --font-family-young-serif-regular: "Young Serif", system-ui, sans-serif;
   --font-family-outfit: "Outfit", system-ui, sans-serif;
   --text-preset-1-font-size: 2.5rem;
+  --text-preset-1-mobile-font-size: 2.25rem;
   --text-preset-1-font-weight: 400;
   --text-preset-1-line-height: 1;
   --text-preset-1-letter-spacing: 0rem;
