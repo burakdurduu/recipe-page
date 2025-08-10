@@ -139,7 +139,7 @@ hr {
 /* Tablet */
 @media screen and (min-width: 768px) {
   .recipe {
-    margin-top: var(--spacing-1600);
+    margin-block: var(--spacing-1600);
     border-radius: var(--spacing-300);
     max-width: 38.5rem;
     padding: var(--spacing-500);
